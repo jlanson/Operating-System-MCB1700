@@ -1,0 +1,18 @@
+TS1     : START
+TS1-LOG : Test[0]-[0]: creating a mailbox for priv task.
+TS1-LOG : Test[0]-[0]: result = 1.
+TS1-LOG : Test[0]-[1]: creating a mailbox when one already exists.
+TS1-LOG : Test[0]-[1]: result = 1.
+TS1-LOG : Test[0]-[2]: Sending a msg to its own mailbox.
+TS1-LOG : Test[0]-[2]: result = 1.
+TS1-LOG : Test[0]-[3]: Filing up mailbox and creating tasks.
+TS1-LOG : Test[0]-[3]: result = 1.
+TS1-LOG : Test[0]-[4]: Receiving all the messages created.
+TS1-LOG : Test[0]-[4]: result = 1.
+TS1     : FINISHED
+TS1-LOG : Test 0: 5/5 PASSED. Expected = 0x1F, result = 0x1F
+TS1     : 1/1 test function(s) COMPLETED.
+TS1     : 5/5 tests PASSED.
+TS1     : 0/5 tests FAILED.
+TS1     : END
+
